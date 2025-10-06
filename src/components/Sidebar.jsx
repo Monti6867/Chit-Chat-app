@@ -31,7 +31,7 @@ const Sidebar = ({selectedUser, setselectedUser}) => {
                     <img src={useer?.profilePic || assets.avatar_icon} alt="" 
                     className='w-[35px] aspect-[1/1] rounded-full'/>
                     <div className='flex flex-col leading-5'>
-                        <p></p>
+                        <p>My name is monti and l</p>
 
                     </div>
                 </div>
